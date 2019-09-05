@@ -1,1 +1,1 @@
-# Email-Classifier
+# email-classifier
